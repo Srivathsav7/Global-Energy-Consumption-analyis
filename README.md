@@ -9,6 +9,6 @@ Insights and Time series analysis on Energy data across the globe
 
 > Performed Linear regression model
 
-> Performed LSTM and Neural networks model
+> Performed LSTM and ARIMA model
 
-> Evaluated based on performance metrics like R^2 and MSE.
+> Evaluated based on performance metrics like R^2 ,MAE and MSE.
